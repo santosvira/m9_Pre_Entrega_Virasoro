@@ -21,7 +21,7 @@ La base de datos `Ventas_Tech_DB` contiene cuatro tablas principales:
 - clientes: información de los clientes.
 - productos: catálogo de productos tecnológicos.
 - categorias: clasificación de los productos.
-- ventas:** operaciones comerciales, cantidades, precios y fechas.
+- ventas: operaciones comerciales, cantidades, precios y fechas.
 
  Relaciones entre tablas
 
